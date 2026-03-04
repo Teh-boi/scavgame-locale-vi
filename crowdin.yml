@@ -1,0 +1,7 @@
+project_id: 877346
+api_token: ${CROWDIN_API_TOKEN}
+base_path: .
+
+files:
+  - source: /EN.json
+    translation: /%two_letters_code_uppercase%.json
